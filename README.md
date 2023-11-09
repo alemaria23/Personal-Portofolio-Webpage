@@ -1,2 +1,2 @@
 # Personal-Portofolio-Webpage
-My own personla portofolio page
+My own personal portofolio page
